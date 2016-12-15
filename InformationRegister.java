@@ -10,4 +10,8 @@ public class InformationRegister extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_information_register);
     }
+    
+    
+    //chinh sua them phan nay de nhan biet comment
+    
 }
