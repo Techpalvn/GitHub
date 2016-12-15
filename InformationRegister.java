@@ -14,4 +14,6 @@ public class InformationRegister extends AppCompatActivity {
     
     //chinh sua them phan nay de nhan biet comment
     
+    //chinh sua lan thu 3 cap nhan len git
+    
 }
